@@ -104,7 +104,7 @@ const GoalDetails = () => {
                       ) : (
                         <button
                           onClick={() => handleEditGoal(goal)}
-                          className="px-4 py-2 rounded-md border border-gray-300 shadow-sm hover:shadow-md transition focus:outline-none focus:ring-2 focus:ring-gray-400"
+                          className="px-4 py-2 rounded-md border bg-yellow-300 hover:bg-yellow-400 border-gray-300 shadow-sm hover:shadow-md transition focus:outline-none focus:ring-2 focus:ring-gray-400"
                         >
                           Update Goal
                         </button>
@@ -131,7 +131,7 @@ const GoalDetails = () => {
         <div className="flex justify-center mt-6">
           <button
             onClick={handleAddGoal}
-            className="px-6 py-2 rounded-lg border border-gray-300 shadow-sm hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-gray-400 transition"
+            className="px-6 py-2 rounded-lg border border-gray-300 bg-blue-300 shadow-sm hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-gray-400 transition"
           >
             Add Goal
           </button>
