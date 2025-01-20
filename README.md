@@ -5,7 +5,7 @@ React user dashboard project shows user details with theri goals. User can add, 
 # Screenshots of my app
 ## Image 1
 This is the first image:
-![](assets/Images/img1.png "Image 1 User's Dashboard")
+![](src/assets/Images/img1.png "Image 1 User's Dashboard")
 
 ## Image 2
 This is the second image:
