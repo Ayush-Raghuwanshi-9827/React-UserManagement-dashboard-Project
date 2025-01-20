@@ -9,7 +9,7 @@ This is the first image:
 
 ## Image 2
 This is the second image:
-![](assets/Images/img2.png "Image 2 Goal's dashboard")
+![](src/assets/Images/img2.png "Image 2 Goal's dashboard")
 
 
 # How to run the project
